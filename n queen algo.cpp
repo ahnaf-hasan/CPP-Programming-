@@ -1,4 +1,4 @@
-// C++ Program to solve the n-queens problem
+// C++ Program to solve the n-queens problem.
 
 #include <bits/stdc++.h>
 using namespace std;
